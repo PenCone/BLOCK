@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLOCK</string>
+    <string name="button">Roll</string>
+    <string name="adjBox">Adjective</string>
+    <string name="verbBox">Verb</string>
+    <string name="nounBox">Noun</string>
+</resources>
